@@ -14,6 +14,6 @@ window.title("電力測定グラフ") # 画面のタイトル
 window.geometry(f"{windowWidth}x{windowHeight}") # 画面の大きさ
 window.iconbitmap("./icon/analysis-analytics-graph.ico") # 画面のアイコン
 
-
+# aaaaaa
 
 window.mainloop() # 画面表示命令
